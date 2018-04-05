@@ -1,4 +1,5 @@
-A bootstrap starter for a simple JS testing suite.
+A Starter Pack for a simple JS testing suite.
   - Webpack
+  - Lodash
   - Jasmine
   - WebdriverIO
