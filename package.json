@@ -1,0 +1,15 @@
+{
+  "name": "jasmine-wdio",
+  "version": "1.0.0",
+  "description": "A starter for a basic testing framework, including jasmine and webdriverio.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Jasmine",
+    "Webdriverio"
+  ],
+  "author": "Clifford Minks",
+  "license": "MIT"
+}
