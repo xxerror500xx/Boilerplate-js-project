@@ -1,5 +1,5 @@
 {
-  "name": "jasmine-wdio",
+  "name": "Boilerplate-js-project",
   "version": "1.0.0",
   "description": "A starter for a basic testing framework, including jasmine and webdriverio.",
   "private": true,
